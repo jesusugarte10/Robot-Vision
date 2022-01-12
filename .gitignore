@@ -2,5 +2,4 @@
 *.pdf
 *.pptx
 *.out
-.gitignore
-
+.DS_Store
